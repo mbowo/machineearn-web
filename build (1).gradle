@@ -1,0 +1,4 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.machineearn.demo'; compileSdk 35
+ defaultConfig { applicationId 'com.machineearn.demo'; minSdk 24; targetSdk 35; versionCode 10; versionName "1.0" }
+}

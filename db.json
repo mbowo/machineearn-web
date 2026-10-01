@@ -1,0 +1,37 @@
+{
+  "users": [],
+  "machines": [
+    {
+      "id": "e6691918-900b-4ad0-b7a6-6f0390733634",
+      "name": "Mini Machine",
+      "price": 600,
+      "description": "Entry-level demo machine",
+      "demoRevenue": 50,
+      "active": true
+    },
+    {
+      "id": "a5858377-b471-466b-bb47-9fe47e44a4d3",
+      "name": "Standard Machine",
+      "price": 1500,
+      "description": "Mid-level demo machine",
+      "demoRevenue": 120,
+      "active": true
+    },
+    {
+      "id": "39066d74-b0ab-49c3-a0c3-197a06f13486",
+      "name": "Pro Machine",
+      "price": 5000,
+      "description": "Advanced demo machine",
+      "demoRevenue": 450,
+      "active": true
+    }
+  ],
+  "purchases": [],
+  "withdrawals": [],
+  "notifications": [],
+  "audit": [],
+  "settings": {
+    "demoPaymentMethod": "M-Pesa Till",
+    "demoTillNumber": "1720946"
+  }
+}
